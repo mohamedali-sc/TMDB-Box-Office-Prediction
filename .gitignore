@@ -1,3 +1,4 @@
 
 tmdb-box-office-prediction/train.csv
 *.csv
+.ipynb_checkpoints
